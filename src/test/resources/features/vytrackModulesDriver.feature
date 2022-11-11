@@ -1,4 +1,4 @@
-Feature: Vytrack Home Page Modules visibility.
+Feature: Vytrack Home Page Drivers Modules visibility.
   User Story: As a driver, I should be accessing all the main modules of the app.
   Drivers should view 4 module names: Fleet, Customers, Activities, System
 

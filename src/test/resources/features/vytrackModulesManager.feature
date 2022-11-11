@@ -1,4 +1,4 @@
-Feature: Vytrack Home Page Modules visibility.
+Feature: Vytrack Home Page Managers Modules visibility.
   User Story: As a manager, I should be accessing all the main modules of the app.
   Store and sales managers should view 8 module names:
   Dashboards, Fleet, Customers, Sales, Activities, Marketing, Reports & Segments, and System
